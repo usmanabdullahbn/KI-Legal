@@ -39,7 +39,7 @@ const ChooseUs = () => {
                 color: "rgb(203, 165, 87)",
               }}
             >
-              Pragmatic Approach
+              Pragmatic Approaches
             </p>
             <p
               style={{
@@ -54,7 +54,7 @@ const ChooseUs = () => {
               We approach disputes by carefully analyzing problems and
               suggesting practical solutions to minimize risk over the long
               term. Our focus is to diligently study the unique pattern of every
-              case and present the best possible solution.
+              case and present the best possible solutions.
             </p>
             </div>
           </MDBCol>
@@ -81,7 +81,7 @@ const ChooseUs = () => {
                 textAlign: "justify"
               }}
             >
-             We pride ourselves in developing bespoke strategies for our client's issues in a practical and legal sense. There is no one size fits all solution – each issue presented to us is analyzed in detail and we apply our expertise to cut through the complexity and arrive at the right solution for clients.
+             We pride ourselves in developing bespoke strategies for our client's issues in a practical and legal sense. There is no one size fits all solution  each issue presented to us is analyzed in detail and we apply our expertise to cut through the complexity and arrive at the right solution for clients.
             </p>
             </div>
           </MDBCol>
@@ -108,7 +108,7 @@ const ChooseUs = () => {
                 textAlign: "justify"
               }}
             >
-             We specialize in acting for our clients in highly challenging and complex cases that involve extraordinary legal issues which are highly time-sensitive and require a quick turnaround. We have been highly successful in critical cases where rapid execution was critical to safeguard our clients’ interests.
+             We specialize in acting for our clients in highly challenging and complex cases that involve extraordinary legal issues which are highly time-sensitive and require a quick turnaround. We have been highly successful in critical cases where rapid execution was critical to safeguard our clients interests.
             </p>
             </div>
           </MDBCol>

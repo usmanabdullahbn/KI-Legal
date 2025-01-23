@@ -16,7 +16,7 @@ const Expertise = () => {
           <MDBCol style={{ width: "60vw" }}>
             <div
               style={{
-                // height: "100vh",
+                
                 fontFamily: "Poppins",
                 width: "auto",
                 marginLeft: "100px",
